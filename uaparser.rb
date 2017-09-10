@@ -1,7 +1,7 @@
 VERSION = '0.0.1'.freeze
 
 # UA Parser
-class UaParser < Formula
+class Uaparser < Formula
   homepage 'https://github.com/mitakeck/uaparser'
   url 'https://github.com/mitakeck/uaparser.git', tag: "v#{VERSION}"
   version VERSION
